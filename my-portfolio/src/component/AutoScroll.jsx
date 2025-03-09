@@ -7,7 +7,7 @@ const AutoScroll = () => {
             <p className="text-xl bg-[#1F222E] text-[#FFF6EE] text-center font-medium py-4">What I like to deliver?</p>
             <div className="w-full overflow-hidden bg-[#D86072] py-6 relative">
                 <div className="flex w-max animate-scroll space-x-8 bg-[#D86072] text-white text-2xl font-medium">
-                    <p>Functionality ✨ Accessibility ✨ Usability ✨ Consistency ✨ Aesthetics ✨</p>
+                    <p>Functionality ✨ Accessibility ✨ Usability ✨ Consistency ✨ Aesthetics ✨ Functionality ✨ Accessibility ✨ Usability ✨ Consistency ✨ Aesthetics ✨</p>
                     <p>Functionality ✨ Accessibility ✨ Usability ✨ Consistency ✨ Aesthetics ✨</p>
 
                 </div>
