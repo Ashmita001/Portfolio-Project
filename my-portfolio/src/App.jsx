@@ -4,6 +4,7 @@ import AutoScroll from './component/AutoScroll'
 import Education from './component/Education'
 import HeroMain from './component/HeroMain'
 import NavbarMain from './component/NavbarMain'
+import TechnicalSkills from './component/TechnicalSkills'
 
 function App() {
 
@@ -14,6 +15,7 @@ function App() {
       <AboutMyself/>
       <AutoScroll/>
       <Education/>
+      <TechnicalSkills/>
     </>
   )
 }
