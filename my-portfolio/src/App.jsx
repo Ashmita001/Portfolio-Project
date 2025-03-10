@@ -5,6 +5,7 @@ import Education from './component/Education'
 import HeroMain from './component/HeroMain'
 import NavbarMain from './component/NavbarMain'
 import TechnicalSkills from './component/TechnicalSkills'
+import WorkWeb from './component/WorkWeb'
 
 function App() {
 
@@ -16,6 +17,7 @@ function App() {
       <AutoScroll/>
       <Education/>
       <TechnicalSkills/>
+      <WorkWeb/>
     </>
   )
 }
