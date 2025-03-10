@@ -17,7 +17,7 @@ const WorkWeb = () => {
             {/* py-8 px-16 */}
 
             <div className='bg-[#0a0a0a]'>
-                <p className="text-[rgb(198,194,242)] text-[28px] md:text-[28px] lg:text-[28px] font-normal py-8 px-8 lg:px-16">Psychodrill</p>
+                <p className="text-[rgb(198,194,242)] text-[28px] md:text-[28px] lg:text-[28px] font-normal py-8 px-8 lg:px-16">Prism 2.0</p>
             </div>
 
             <div className='bg-[#0a0a0a] '>
@@ -60,7 +60,7 @@ const WorkWeb = () => {
 
 
             <div className='bg-[#0a0a0a]'>
-                <p className="text-[#D6DC82] text-[28px] md:text-[28px] lg:text-[28px] font-normal py-8 px-8 lg:px-16">Maidaan</p>
+                <p className="text-[#D6DC82]  text-[28px] md:text-[28px] lg:text-[28px] font-normal py-8 px-8 lg:px-16">Maidaan</p>
             </div>
 
             <div className='bg-[#0a0a0a] '>
@@ -92,7 +92,7 @@ const WorkWeb = () => {
             </div>
 
             <div>
-                <div className="bg-[#0a0a0a] overflow-hidden w-full py-4">
+                <div className="bg-[#0a0a0a] overflow-hidden w-full py-4 lg:py-10">
                     <img src={maidaan}   alt="maidaan" />
                 </div>
             </div>
