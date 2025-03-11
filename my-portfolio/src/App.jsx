@@ -6,6 +6,7 @@ import HeroMain from './component/HeroMain'
 import NavbarMain from './component/NavbarMain'
 import TechnicalSkills from './component/TechnicalSkills'
 import WorkApp from './component/WorkApp'
+import WorkGraphic from './component/WorkGraphic'
 import WorkWeb from './component/WorkWeb'
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
       <TechnicalSkills/>
       <WorkWeb/>
       <WorkApp/>
+      <WorkGraphic/>
     </>
   )
 }
