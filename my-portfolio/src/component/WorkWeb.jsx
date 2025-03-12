@@ -17,7 +17,7 @@ const WorkWeb = () => {
             {/* py-8 px-16 */}
 
             <div className='bg-[#0a0a0a]'>
-                <p className="text-[rgb(198,194,242)] text-[28px] md:text-[28px] lg:text-[28px] font-normal py-8 px-8 lg:px-16">Prism 2.0</p>
+                <p className="text-[#c6c2f2] text-[28px] md:text-[28px] lg:text-[28px] font-normal py-8 px-8 lg:px-16">Prism 2.0</p>
             </div>
 
             <div className='bg-[#0a0a0a] '>

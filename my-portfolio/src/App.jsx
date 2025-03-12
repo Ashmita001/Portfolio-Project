@@ -1,6 +1,7 @@
 import './App.css'
 import AboutMyself from './component/AboutMyself'
 import AutoScroll from './component/AutoScroll'
+import ContactSection from './component/ContactSection'
 import Education from './component/Education'
 import HeroMain from './component/HeroMain'
 import NavbarMain from './component/NavbarMain'
@@ -22,6 +23,7 @@ function App() {
       <WorkWeb/>
       <WorkApp/>
       <WorkGraphic/>
+      <ContactSection/>
     </>
   )
 }
