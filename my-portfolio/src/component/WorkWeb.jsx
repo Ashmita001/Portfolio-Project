@@ -5,7 +5,7 @@ import maidaan from '../assets/maidaan.svg'
 const WorkWeb = () => {
     return (
         <>
-            <div className='mx-4 px-4 flex flex-col lg:px-4 lg:mx-12'>
+            <div id='work' className='mx-4 px-4 flex flex-col lg:px-4 lg:mx-12'>
                 <h3 className='text-left text-[36px] md:text-[36px] lg:text-[36px] font-normal pt-5' >Work</h3>
             </div>
 
